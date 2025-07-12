@@ -7,10 +7,10 @@
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
 <p> 
-    <a href="mailto:tosky19941209@gmail.com" target="_blank"><img alt="Email"
+    <a href="mailto:quansera.dane@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://x.com/" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+    <!-- <a href="https://x.com/" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
     <a href="https://discordapp.com/users/279769568258293761" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <!-- <a href="https://t.me/" target="_blank"><img alt="Telegram"
