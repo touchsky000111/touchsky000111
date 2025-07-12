@@ -13,9 +13,9 @@
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
     <a href="https://discordapp.com/users/279769568258293761" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <!-- <a href="https://t.me/" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://join.skype.com/invite/yoYWSjLjQEja" target="_blank"><img alt="Skype"
-        src="https://img.shields.io/badge/Skype-230077B5?style=for-the-badge&logo=skype&logoColor=white"/></a>
-    -->
+    <!-- <a href="https://join.skype.com/invite/yoYWSjLjQEja" target="_blank"><img alt="Skype"
+        src="https://img.shields.io/badge/Skype-230077B5?style=for-the-badge&logo=skype&logoColor=white"/></a> -->
+   
 </p>
