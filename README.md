@@ -15,7 +15,10 @@
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://t.me/touchsky000111" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <!-- <a href="https://join.skype.com/invite/yoYWSjLjQEja" target="_blank"><img alt="Skype"
-        src="https://img.shields.io/badge/Skype-230077B5?style=for-the-badge&logo=skype&logoColor=white"/></a> -->
+    <a href="https://teams.live.com/l/invite/FAA21zHE8C4NYE3dQE" target="_blank">
+        <img alt="Teams"
+            src="https://img.shields.io/badge/teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+    </a>
+
    
 </p>
