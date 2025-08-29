@@ -3,7 +3,7 @@
 - ✍ 𝗳𝗼𝗰𝘂𝘀𝗶𝗻𝗴 𝗼𝗻 𝗳𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗮𝗻𝗱 𝘄𝗲𝗯3 (𝗦𝗼𝗹𝗮𝗻𝗮 𝗮𝗻𝗱 𝗘𝘁𝗵𝗲𝗿𝗲𝘂𝗺) 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
 - 🌱 Bᴜɪʟᴛ ꜱᴇᴠᴇʀᴀʟ ꜱɪɢɴɪғɪᴄᴀɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ ʙᴀꜱᴇᴅ ᴏɴ Sᴏʟᴀɴᴀ, Bɪᴛᴄᴏɪɴ ɴᴇᴛᴡᴏʀᴋ. 
 - 💼 Nᴏᴡ Bᴜɪʟᴅɪɴɢ Bᴇꜱᴛ AI Aɢᴇɴᴛꜱ ᴏɴ Sᴏʟᴀɴᴀ, Aʟꜱᴏ ᴡᴏʀᴋɪɴɢ ᴏɴ Bᴜɪʟᴅɪɴɢ Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ, Rᴀғғʟᴇ, Aᴜᴄᴛɪᴏɴ Tᴏᴏʟꜱ ᴏɴ Bɪᴛᴄᴏɪɴ.
-
+#### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 <p> 
     <a href="https://x.com/touchsky000111" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
